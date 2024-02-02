@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-form-userInput/static/css/main.09f65986.css",
+    "main.js": "/react-form-userInput/static/js/main.78ea41b6.js",
+    "static/media/logo.jpg": "/react-form-userInput/static/media/logo.9d88685c660ed659cac5.jpg",
+    "index.html": "/react-form-userInput/index.html",
+    "main.09f65986.css.map": "/react-form-userInput/static/css/main.09f65986.css.map",
+    "main.78ea41b6.js.map": "/react-form-userInput/static/js/main.78ea41b6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.09f65986.css",
+    "static/js/main.78ea41b6.js"
+  ]
+}
